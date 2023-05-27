@@ -1,4 +1,4 @@
-# ATtiny85 Arduino-Programmer
+# ATtiny85 Arduino Programmer
 
 Electronic proyect to turn an Arduino Nano/UNO into an ATtiny85 programmer.  
 Based on video ![CREA tu Programador DIY para ATTINY85 con Arduino UNO](https://www.youtube.com/watch?v=IFw5A_K7DOM) (spanish) from ![Kriss Electronics](https://www.youtube.com/@KrissElectronics) YouTube channel.
