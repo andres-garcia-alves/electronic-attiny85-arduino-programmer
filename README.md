@@ -1,7 +1,8 @@
 # ATtiny85 Arduino Programmer
 
 Electronic proyect to turn an Arduino Nano/UNO into an ATtiny85 programmer.  
-Based on video ![CREA tu Programador DIY para ATTINY85 con Arduino UNO](https://www.youtube.com/watch?v=IFw5A_K7DOM) (spanish) from ![Kriss Electronics](https://www.youtube.com/@KrissElectronics) YouTube channel.
+
+Based on video [CREA tu Programador DIY para ATTINY85 con Arduino UNO](https://www.youtube.com/watch?v=IFw5A_K7DOM) (spanish) from [Kriss Electronics](https://www.youtube.com/@KrissElectronics) YouTube channel.
 
 &nbsp;
 
@@ -11,8 +12,8 @@ This project use the following electronic components:
 - 1 x Capacitor 10uF/16V
 
 Notes:
-- PCB pin-headers 10-11-12-13 are available to program the ATtiny from an Arduino UNO instead of Arduino Nano.
-- Please refer to above cited video, to learn about requiered Arduino IDE configuration and the programming process.
+- PCB pin-headers 10-11-12-13 allows to program the ATtiny from an Arduino UNO instead of Arduino Nano.
+- Please refer to above video, to learn about requiered Arduino IDE configuration and programming process.
 
 &nbsp;
 
