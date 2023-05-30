@@ -46,6 +46,7 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 ### Version History
 
 v1.0 (2023.05.26) - Initial release.  
+v1.1 (2023.05.29) - Optimizing PCB size.  
 
 &nbsp;
 
