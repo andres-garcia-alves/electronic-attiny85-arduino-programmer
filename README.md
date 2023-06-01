@@ -27,9 +27,9 @@ Notes:
 |----------------------------------------------------|----------------------------------------------------|
 | ![](Resources/03-pcb-render-front-side.png)        | ![](Resources/04-pcb-render-back-side.png)         |
 
-| Prototype                                          | PCB Manufacturing                                  |
+| PCB Manufacturing                                  | PCB Manufacturing                                  |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/05-photo-coming-soon.jpg)            | ![](Resources/06-photo-coming-soon.jpg)            |
+| ![](Resources/05-pcb-manufacturing-01.jpg)         | ![](Resources/05-pcb-manufacturing-02.jpg)         |
 
 | PCB Assembly                                       | Project Assembly                                   |
 |----------------------------------------------------|----------------------------------------------------|
