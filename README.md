@@ -32,13 +32,13 @@ Notes:
 |----------------------------------------------------|----------------------------------------------------|
 | ![](Resources/05-pcb-manufacturing-01.jpg)         | ![](Resources/05-pcb-manufacturing-02.jpg)         |
 
-| PCB Assembly                                       | Project Assembly                                   |
+| PCB Assembly                                       | PCB Assembly                                       |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/07-photo-coming-soon.jpg)            | ![](Resources/08-photo-coming-soon.jpg)            |
+| ![](Resources/06-pcb-assembly-01.jpg)              | ![](Resources/06-pcb-assembly-02.jpg)              |
 
 | Project Final                                      | Project Final (YouTube video)                      |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/09-photo-coming-soon.jpg)            | ![](Resources/10-photo-coming-soon.jpg)            |
+| ![](Resources/08-project-final-01.jpg)             | [![](Resources/08-project-final-02.jpg)](https://youtu.be/M8b_7Qr37uk) |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
