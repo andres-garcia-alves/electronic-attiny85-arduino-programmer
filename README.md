@@ -12,7 +12,8 @@ This project use the following electronic components:
 - 1 x Capacitor 10uF/16V
 
 Notes:
-- PCB pin-headers 10-11-12-13 allows to program the ATtiny from an Arduino UNO instead of Arduino Nano.
+- PCB pin-headers 5V-GND-RST-10-11-12-13 allows to program the ATtiny85 from an Arduino UNO, instead of Arduino Nano.
+- Remove from PCB any pluged Arduino Nano if you are going to program the ATtiny85 from Arduino UNO pin-headers.
 - Please refer to above video, to learn about requiered Arduino IDE configuration and programming process.
 
 &nbsp;
